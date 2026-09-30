@@ -1,0 +1,6 @@
+{
+  "name": "url",
+  "version": "0.1.0",
+  "entry": "src/url.f",
+  "description": "Deterministic RFC 3986 URI-reference parsing and resolution"
+}
